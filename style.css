@@ -1,0 +1,24 @@
+iframe{
+    text-align: center;
+    padding-left: 90px;
+    margin:auto;
+}
+img{
+    height: 400px;
+    width: auto;
+}
+body{
+    text-align: center;
+}
+#mycarousel{
+    
+    width: auto;
+    height: 400;
+        
+}
+h1{
+   font-family: 'Genos', sans-serif; 
+}
+body{
+    background-color:  #77dd77;
+}
